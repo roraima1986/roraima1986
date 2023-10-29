@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Roraima 👋
 
+- 🌱 I’m currently learning React.
+- 🤓 I am currently studying at Udemy.
+- 🔭 I'm currently working on some personal projects and i'm doing some courses.
+- 📫 how to contact me: rlugo1986@gmail.com.
 <!--
 **roraima1986/roraima1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👨‍💻 All of my projects are available at...
 -->
