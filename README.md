@@ -4,7 +4,7 @@
 - 🤓 I am currently studying at Udemy.
 - 🔭 I'm currently working on some personal projects and i'm doing some courses.
 - 📫 how to contact me: rlugo1986@gmail.com.
-- 👨‍💻 All of my projects are available at: [/portafolio.github.io/](https://roraima1986.github.io/portafolio.github.io/)
+- 👨‍💻 All of my projects are available at: [/portafolio.github.io/](https://roraima1986.github.io/portafolio.github.io/index)
 <!--
 **roraima1986/roraima1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
